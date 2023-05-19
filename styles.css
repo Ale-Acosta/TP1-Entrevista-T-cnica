@@ -26,6 +26,9 @@ list-group{
     background-image: url(https://images.pexels.com/photos/7816585/pexels-photo-7816585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     padding-top: 10rem !important;
     padding-bottom: 10rem !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .list-group-flush>.list-group-item{
     background-color: #ffb703;
