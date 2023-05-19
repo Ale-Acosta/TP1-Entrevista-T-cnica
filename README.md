@@ -1,2 +1,3 @@
-# TP1-Entrevista-T-cnica
+# TP1-Entrevista-Tecnica
 TP1-Entrevista Técnica
+Nombre: Alejandra Acosta Comisión:DWN3CV -Turno Noche
