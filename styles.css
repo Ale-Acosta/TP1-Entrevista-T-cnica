@@ -1,0 +1,57 @@
+/*/https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500 */
+.card
+{
+    background-color: #023047;
+    color: whitesmoke;
+}
+h1 {
+    color: #fb8500;
+}
+
+.btn {
+    color: whitesmoke;
+    background-color: #fb8500;
+    border: none;
+}
+
+list-group{
+    background-color: #023047;
+
+}
+
+.rounded-3{
+    background-color: #023047;
+}
+.fondo {
+    background-image: url(https://images.pexels.com/photos/7816585/pexels-photo-7816585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    padding-top: 10rem !important;
+    padding-bottom: 10rem !important;
+}
+.list-group-flush>.list-group-item{
+    background-color: #ffb703;
+    color: #023047;
+    font-weight: bold;
+}
+span{
+    font-size: 40px;
+    color: #FFB703;
+}
+.icono{
+    width: 100px
+
+}
+
+ul{
+    margin-bottom: 20px;
+}
+.bajada{
+    color: #023047;
+ 
+}
+input{
+    background-color:#023047;
+    color: #fb8500;
+    border: none;
+    border-radius: 10px;
+}
+
